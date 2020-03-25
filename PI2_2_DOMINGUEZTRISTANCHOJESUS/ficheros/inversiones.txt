@@ -1,0 +1,10 @@
+10
+0# Cria en cautividad# 4# 1# 2# MOVIL# MEDIA
+1# Gestion de notarias# 2# 2# 1# WEB# BAJA
+2# Gestion de instalaciones# 6# 3# 3# WEB# MEDIA
+3# Recepcion de pedidos# 10# 2# 3# MOVIL# BAJA
+4# Decoracion y muebles# 5# 2# 1# MOVIL# ALTA
+5# Cafeteria inteligente# 4# 1# 3# IA# ALTA
+6# Camaras de seguridad# 2# 1# 1# IA# MEDIA
+7# Gestion de alquileres# 6# 3# 2# WEB# BAJA
+8# Deteccion de fuegos# 8# 4# 3# IA# ALTA

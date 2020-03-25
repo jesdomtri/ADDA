@@ -1,0 +1,25 @@
+strict graph G {
+  Sevilla;
+  Antequera;
+  Cadiz;
+  Huelva;
+  Cordoba;
+  Malaga;
+  Almeria;
+  Granada;
+  Jaen;
+  Sevilla -- Huelva;
+  Sevilla -- Cordoba;
+  Sevilla -- Cadiz;
+  Sevilla -- Malaga;
+  Sevilla -- Antequera;
+  Antequera -- Malaga;
+  Antequera -- Granada;
+  Malaga -- Cadiz;
+  Malaga -- Cordoba;
+  Malaga -- Granada;
+  Cordoba -- Jaen;
+  Cordoba -- Granada;
+  Granada -- Almeria;
+  Granada -- Jaen;
+}
